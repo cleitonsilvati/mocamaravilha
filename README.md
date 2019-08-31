@@ -19,3 +19,13 @@ PRODUTO|DESCRICAO
 ----------|----------
 PROD 1    | PROD 1
 PROD 2    | PROD 2
+
+````bash
+#!/bin/bash
+echo "Escrevendo Script"
+for I in 1 2 3 4 5
+do
+ echo $I
+
+done
+````
