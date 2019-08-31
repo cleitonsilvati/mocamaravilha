@@ -1,6 +1,6 @@
 TITULO 
 ======
-
+https://www.google.com/search?q=GIT+IMAGE&client=ubuntu&hs=pd8&channel=fs&tbm=isch&source=iu&ictx=1&fir=d6nfIm3Mely-GM%253A%252Ck-ZTs2xWBMepxM%252C_&vet=1&usg=AI4_-kThRnJUQH8QrtLzlF52T24TMd9gxw&sa=X&ved=2ahUKEwjwoPnBuK3kAhVuHbkGHZUABYEQ9QEwAHoECAUQBA#imgrc=d6nfIm3Mely-GM:
 SUBTITULO
 ------
 
@@ -8,11 +8,11 @@ SUBTITULO
  - Sub Lista 2
  - Sub Lista 3
 * [x] MARCADO
-* [] NÃO MARCADO
+* [ ] NÃO MARCADO
 
 
 ### Sub Sub Titulo
-**NEGRITO** _SUBLINHADO_ ~~RISCADO~~
+**NEGRITO** _ITALICO_ ~~RISCADO~~
 
 ### TABELA
 PRODUTO|DESCRICAO
