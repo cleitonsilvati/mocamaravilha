@@ -5,5 +5,5 @@ do
 figlet $batata
 done
 
-for i in $(seq 1 25); do linuxlogo - L $i ; sleep 1; clear; done
+for i in $(seq 1 25); do linuxlogo -L $i ; sleep 1; clear;  done 
 
